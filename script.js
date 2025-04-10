@@ -28,7 +28,7 @@ window.onload = function() {
         { speed: 90, obstacleCount: 10, color: "#9932CC", foodColor: "#FFD700" }
     ];
     
-    const eatSound = new Audio('https://assets.mixkit.co/active_storage/sfx/2566/2566-preview.mp3');
+    // const eatSound = new Audio('https://assets.mixkit.co/active_storage/sfx/2566/2566-preview.mp3');
     const gameOverSound = new Audio('https://assets.mixkit.co/active_storage/sfx/270/270-preview.mp3');
     const levelUpSound = new Audio('https://assets.mixkit.co/active_storage/sfx/2019/2019-preview.mp3');
     
